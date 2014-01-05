@@ -6,7 +6,7 @@
         "timepicking",
         "intervals"
     ],
-    "version": "1.1",
+    "version": "1.2",
     "author": {
         "name": "Aaldert van Weelden",
         "url": "https://github.com/vanweelden/jquery_timepicker/blob/master/AUTHORS.txt"
@@ -29,6 +29,6 @@
     "docs": "https://github.com/vanweelden/jquery_timepicker",
     "download": "https://github.com/vanweelden/jquery_timepicker/archive/master.zip",
     "dependencies": {
-        "jquery": ">=1.5"
+        "jquery": ">=1.3"
     }
 }
