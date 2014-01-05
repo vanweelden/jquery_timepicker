@@ -6,10 +6,10 @@
         "timepicking",
         "intervals"
     ],
-    "version": "1.2.1",
+    "version": "1.2.2",
     "author": {
         "name": "Aaldert van Weelden",
-        "url": "https://https://github.com/vanweelden/jquery_timepicker/tree/1.2.1/AUTHORS.txt"
+        "url": "https://https://github.com/vanweelden/jquery_timepicker/tree/1.2.2/AUTHORS.txt"
     },
     "maintainers": [
         {
@@ -21,13 +21,13 @@
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/vanweelden/jquery_timepicker/tree/1.2.1/MIT-LICENSE.txt"
+            "url": "https://github.com/vanweelden/jquery_timepicker/tree/1.2.2/MIT-LICENSE.txt"
         }
     ],
     "bugs": "https://github.com/vanweelden/jquery_timepicker/issues",
     "homepage": "https://github.com/vanweelden/jquery_timepicker",
     "docs": "https://github.com/vanweelden/jquery_timepicker",
-    "download": "https://github.com/vanweelden/jquery_timepicker/archive/1.2.1.zip",
+    "download": "https://github.com/vanweelden/jquery_timepicker/archive/1.2.2.zip",
     "dependencies": {
         "jquery": ">=1.3"
     }
