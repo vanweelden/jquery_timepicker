@@ -6,7 +6,7 @@
         "timepicking",
         "intervals"
     ],
-    "version": "1.2",
+    "version": "1.2.1",
     "author": {
         "name": "Aaldert van Weelden",
         "url": "https://https://github.com/vanweelden/jquery_timepicker/tree/1.2/AUTHORS.txt"
@@ -14,7 +14,7 @@
     "maintainers": [
         {
             "name": "Aaldert van Weelden",
-            "email": "aaldert@vanweeldencodeprojects,",
+            "email": "aaldert@vanweeldencodeprojects.eu",
             "url": "http://www.vanweeldencodeprojects.eu"
         }
     ],
