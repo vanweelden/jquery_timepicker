@@ -4,7 +4,7 @@
  * 
  * Copyright (c) 2010 Aaldert van Weelden
  *
- * Version: 1.2.3 (15/09/2010)
+ * Version: 1.2.5 (15/09/2010)
  * Requires: jQuery v1.3+
  *
  * Dual licensed under the MIT and GPL licenses:
