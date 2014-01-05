@@ -1,10 +1,11 @@
 {
-    "name": "timepicker",
-    "title": "jQuery TimePicker",
+    "name": "jQueryUI easy TimePicker",
+    "title": "jQueryUI easy TimePicker",
     "description": "jQuery plugin for picking a time period in predefined formats.",
     "keywords": [
         "timepicking",
-        "intervals"
+        "intervals",
+        "form"
     ],
     "version": "1.2.2",
     "author": {
